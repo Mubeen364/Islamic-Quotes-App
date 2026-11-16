@@ -1,2 +1,2 @@
 # Islamic-Quotes-App
-Islamic Quiz App is a mobile application that helps users learn about Islam through quiz questions and multiple-choice answers. It includes a welcome screen and Previous and Next buttons.
+Islamic Quotes App is a mobile application that displays Islamic quotes and allows users to browse through different quotes using Previous and Next buttons.
